@@ -18,7 +18,7 @@ Work experience
 ======
 * 2019-2021: Research Assistant
   * Sun Yat-sen University
-  * Duties included: Design MIPS SoC
+  * Duties included: Design a MIPS SoC
   * Supervisor: Professor Tao Su
 
 * 2021-present: Graduate Research Assistant
