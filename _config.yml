@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 #title                    : "Your Name / Site Title"
-title                    : "Jiaqi Liu / PangTiger.github.io"
+title                    : "Jiaqi Liu"
 title_separator          : "-"
 name                     : &name "Jiaqi Liu"
 description              : &description "personal description"
