@@ -14,7 +14,7 @@ name                     : &name "Jiaqi Liu"
 description              : &description "personal description"
 url                      : https://pangtiger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "PangTiger/PangTiger.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   avatar           : "Jiaqi-photo.jpg"
   bio              : "Ph.D. Student"
   location         : "Hong Kong SAR, China"
-  employer         : "HKUST"
+  employer         : "Hong University of Science and Technology"
   pubmed           : 
   googlescholar    : 
   email            : "jliuel@connect.ust.hk"
