@@ -2,7 +2,7 @@
 title: "Computer Organization"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-computer-organization
 venue: "Sun Yat-sen University, School of Electronics and Information Technology"
 date: 2020-09-01
 location: "Guangzhou, China"
