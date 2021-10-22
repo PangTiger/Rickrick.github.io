@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Microelectronics, Sun Yat-sen University, 2017-2021
+* Ph.D in Hong Kong University of Science and Technology, 2021-2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2021: Research Assistant
+  * Sun Yat-sen University
+  * Duties included: Design MIPS SoC
+  * Supervisor: Professor Tao Su
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-present: Graduate Research Assistant
+  * Hong Kong University of Science and Technology
+  * Duties included: Research in computer architecture
+  * Supervisor: Professor Jiang Xu
   
 Skills
 ======
