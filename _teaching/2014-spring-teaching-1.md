@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Computer Organization"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Sun Yat-sen University, School of Electronics and Information Technology"
+date: 2020-09-01
+location: "Guangzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+We cover a lot about microprocessor desgin and Verilog HDL.
 
-Heading 1
+Lecture 1
 ======
+Introduction to computer organization and microprocessor.
 
-Heading 2
+Lab 1
 ======
+Basic of Verilog HDL.
 
-Heading 3
+Lab 2
 ======
+Design a simple 5-stage-pipelined CPU.
